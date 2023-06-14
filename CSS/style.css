@@ -3,10 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: #f5f5f5;
 }
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -91,6 +93,7 @@ body {
   width: 100%;
   padding-left: 1rem;
 }
+
 .main__product-info--title {
   font-size: 16px;
   color: #4e5150;
@@ -197,6 +200,7 @@ body {
   justify-content: space-between;
   color: #646464;
 }
+/* Genel */
 .line-through {
   text-decoration: line-through;
 }
@@ -252,6 +256,7 @@ span {
   #total-info {
     width: 100%;
   }
+
   .main__summary--info {
     width: 100%;
   }
