@@ -1,5 +1,3 @@
-# CW Checkout App
-
 # Project : Checkout App
 
 ## Description
@@ -31,7 +29,7 @@ At the end of the this project, students will be able to;
 
 ### Demo
 
-<a href="https://anthony-checkout-apps.vercel.app/">Live</a>
+<a href="https://ilkaytech.github.io/CW_Checkout_App/">Live</a>
 
 ### Resources
 
