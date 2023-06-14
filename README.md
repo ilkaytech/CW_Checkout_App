@@ -1,1 +1,1 @@
-# CW_Checkout_App
+# CW Checkout App
