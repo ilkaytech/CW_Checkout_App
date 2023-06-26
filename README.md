@@ -29,7 +29,7 @@ At the end of the this project, students will be able to;
 
 ### Demo
 
-<a href="https://ilkaytech.github.io/CW_Checkout_App/">Live</a>
+<a href="https://cw-checkout-app.netlify.app">Live</a>
 
 ### Resources
 
